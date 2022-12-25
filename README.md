@@ -1,0 +1,2 @@
+# django_simple_authentication
+ Djangoの組み込み認証システム
